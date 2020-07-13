@@ -21,22 +21,22 @@ let data = [
     ]
   },
   {
-    title: "Code Reader",
+    title: "Traceability Solutions",
     headings: [
       {
-        subtitle: "Code reader( Vol.1)",
+        subtitle: "Traceabiity Solutions( Vol.1)",
         description: "Traceability",
         link: "https://www.easy-lms.com/code-reader-vol.1/course-51327"
       },
       {
-        subtitle: "Code Reader (Vol.2)",
-        description: "Coming soon",
-        link: ""
+        subtitle: "Traceability Solutions (Vol.2)",
+        description: "Productivity",
+        link: "https://www.easy-lms.com/traceability-solution-vol.2/course-53122"
       },
      
     ],
     disabled_subtitles: [
-      "Code Reader (Vol.2)",
+      "",
       "",
       ""
     ]
