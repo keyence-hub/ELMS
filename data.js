@@ -41,4 +41,19 @@ let data = [
       ""
     ]
   },
+  {
+    title: "Static Elimination",
+    headings: [
+      {
+        subtitle: "Static (Vol.1)",
+        description: "",
+        link: "https://www.easy-lms.com/static-vol.1/course-53786"
+      },    
+    ],
+    disabled_subtitles: [
+      "",
+      "",
+      ""
+    ]
+  },
 ];
