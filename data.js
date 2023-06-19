@@ -69,7 +69,6 @@ let data = [
         description: "",
         link: "https://www.easy-lms.com/lvdt-sensor/course-55822"
       },   
-          
     ],
     disabled_subtitles: [
       "",
