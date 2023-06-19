@@ -49,6 +49,11 @@ let data = [
         description: "",
         link: "https://www.easy-lms.com/static-vol.1/course-53786"
       },    
+        {
+        subtitle: "Static (Vol.2)",
+        description: "",
+        link: "https://www.easy-lms.com/master-of-static-vol.2/course-75426"
+      },  
     ],
     disabled_subtitles: [
       "",
