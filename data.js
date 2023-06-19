@@ -48,7 +48,28 @@ let data = [
         subtitle: "Static (Vol.1)",
         description: "",
         link: "https://www.easy-lms.com/static-vol.1/course-53786"
-      },    
+      },   
+       {
+        subtitle: "Static (Vol.2)",
+        description: "",
+        link: "https://www.easy-lms.com/master-of-static-vol.2/course-75426"
+      },   
+    ],
+    disabled_subtitles: [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    title: "Measurement Sensors",
+    headings: [
+      {
+        subtitle: "Contact Sensor",
+        description: "",
+        link: "https://www.easy-lms.com/lvdt-sensor/course-55822"
+      },   
+          
     ],
     disabled_subtitles: [
       "",
