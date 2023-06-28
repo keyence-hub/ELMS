@@ -12,6 +12,11 @@ let data = [
         description: "AI - Changing Process",
         link: "https://www.easy-lms.com/vision-sensor-vol.2/course-52353"
       },
+       {
+        subtitle: "Vision Sensor (Vol.3)",
+        description: "Era of Revolution",
+        link: "https://www.easy-lms.com/iv3-revolution-in-the-making/course-91808"
+      },
      
     ],
     disabled_subtitles: [
@@ -69,6 +74,7 @@ let data = [
         description: "",
         link: "https://www.easy-lms.com/lvdt-sensor/course-55822"
       },   
+          
     ],
     disabled_subtitles: [
       "",
