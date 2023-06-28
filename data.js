@@ -29,7 +29,7 @@ let data = [
     title: "Traceability Solutions",
     headings: [
       {
-        subtitle: "Traceabiity Solutions (Vol.1)",
+        subtitle: "Traceability Solutions (Vol.1)",
         description: "Traceability",
         link: "https://www.easy-lms.com/code-reader-vol.1/course-51327"
       },
